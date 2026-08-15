@@ -1,1 +1,1 @@
-## A Minor Project
+## CreditWise Loan Approval System
